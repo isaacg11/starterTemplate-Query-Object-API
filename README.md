@@ -1,5 +1,5 @@
 # starterTemplate-Query-Object-API
-a starter template for running object queries using the Stamplay Rest API
+a Javascript starter template for running object queries using the Stamplay Rest API
 
 **CLONING: When cloning this repo, you must initialize your app to make it work.**
 
