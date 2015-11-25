@@ -10,7 +10,7 @@ a starter template for running object queries using the Stamplay Rest API
 
 3) **Establish query search**
 - Go to your Stamplay editor and go to the **Data** section. Then go to **Objects**
-- Establish what object(s) in the collection your going to query by looking at it's **attribute**. You will search using one of these attributes.
+- Establish which object(s) in the collection your going to query by looking at it's **attribute**. You will search using one of these attributes.
 
 4) **Query Object**
 ```
